@@ -11,6 +11,13 @@
 	"version": "v1.0.0",
 	"developer": "kisnner",
 	"description": "Cambia de icono y colores en tiempo real desde el menu de pausa, sin reiniciar el nivel.",
+	"links": {
+		"source": "https://github.com/kisnner26/IconSwitcher"
+	},
+	"issues": {
+		"url": "https://github.com/kisnner26/IconSwitcher/issues",
+		"info": "Reporta bugs o pide funciones nuevas en los issues de GitHub."
+	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
